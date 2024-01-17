@@ -1,0 +1,7 @@
+
+*.v2
+*.vsidx
+Hansung/.vs/Hansung/v17/.suo
+*.dll
+*.exe
+*.pdb
