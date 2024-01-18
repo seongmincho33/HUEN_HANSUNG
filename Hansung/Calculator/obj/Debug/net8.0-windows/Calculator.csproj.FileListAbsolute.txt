@@ -16,3 +16,4 @@ C:\Users\SMJO\Desktop\SMJO_CODE\WinformPracticeCode\HUEN_HANSUNG\Hansung\Calcula
 C:\Users\SMJO\Desktop\SMJO_CODE\WinformPracticeCode\HUEN_HANSUNG\Hansung\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
 C:\Users\SMJO\Desktop\SMJO_CODE\WinformPracticeCode\HUEN_HANSUNG\Hansung\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
 C:\Users\SMJO\Desktop\SMJO_CODE\WinformPracticeCode\HUEN_HANSUNG\Hansung\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
+C:\Users\SMJO\Desktop\SMJO_CODE\WinformPracticeCode\HUEN_HANSUNG\Hansung\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json

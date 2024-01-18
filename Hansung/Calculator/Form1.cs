@@ -18,7 +18,7 @@ namespace Calculator
         private void SetControls()
         {
             UC_NumberPad NumberPad = new UC_NumberPad();
-            UC_Monitor Monitor = new UC_Monitor();
+            UC_Monitor Monitor = new UC_Monitor();            
 
             Monitor.Dock = DockStyle.Fill;
             this.panelTop.Controls.Add(Monitor);
@@ -26,7 +26,7 @@ namespace Calculator
             NumberPad.Dock = DockStyle.Fill;
             this.panelFill.Controls.Add(NumberPad);
 
-            Calculator calculator = new Calculator(NumberPad, Monitor);
+            CalculatorController calculator = new CalculatorController(NumberPad, Monitor);
         }
     }
 }

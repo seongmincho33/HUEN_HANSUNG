@@ -22,7 +22,7 @@ namespace Calculator.Control
 
     public enum OperatorButton
     {
-        Percentage, CE, Clear, Back, Fraction, Square, Root, Converter, Dot,
+        None, Percentage, CE, Clear, Back, Fraction, Square, Root, Converter, Dot,
 
         Divide, Multiply, Plus, Minus, Equal
     }
