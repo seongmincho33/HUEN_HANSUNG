@@ -1,0 +1,15 @@
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\bin\Debug\net8.0\PlannerDAL.deps.json
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\bin\Debug\net8.0\PlannerDAL.runtimeconfig.json
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\bin\Debug\net8.0\PlannerDAL.dll
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\bin\Debug\net8.0\PlannerDAL.pdb
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.csproj.AssemblyReference.cache
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.AssemblyInfoInputs.cache
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.AssemblyInfo.cs
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.csproj.CoreCompileInputs.cache
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.sourcelink.json
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.dll
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\refint\PlannerDAL.dll
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.pdb
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\PlannerDAL.genruntimeconfig.cache
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerDAL\obj\Debug\net8.0\ref\PlannerDAL.dll
