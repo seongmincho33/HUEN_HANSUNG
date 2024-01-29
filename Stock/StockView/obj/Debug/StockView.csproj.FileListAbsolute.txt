@@ -1,0 +1,15 @@
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\bin\Debug\StockView.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\bin\Debug\StockView.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\bin\Debug\StockController.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\bin\Debug\StockModel.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\bin\Debug\StockController.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\bin\Debug\StockModel.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.csproj.AssemblyReference.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.FormBankMoney.resources
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.FormSetChartDomain.resources
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.UC_Stock.resources
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.csproj.GenerateResource.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.csproj.CoreCompileInputs.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.csproj.CopyComplete
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockView\obj\Debug\StockView.pdb
