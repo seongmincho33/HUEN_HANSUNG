@@ -1,0 +1,5 @@
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerView\obj\Release\net8.0-windows\PlannerView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerView\obj\Release\net8.0-windows\PlannerView.AssemblyInfoInputs.cache
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerView\obj\Release\net8.0-windows\PlannerView.AssemblyInfo.cs
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerView\obj\Release\net8.0-windows\PlannerView.csproj.CoreCompileInputs.cache
+C:\Users\smjo\Documents\GitHub\Project\12Planner2024\Planner2024\PlannerView\obj\Release\net8.0-windows\PlannerView.sourcelink.json

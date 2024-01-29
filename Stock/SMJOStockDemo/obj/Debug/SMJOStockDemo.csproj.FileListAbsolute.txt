@@ -1,0 +1,17 @@
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\SMJOStockDemo.exe.config
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\SMJOStockDemo.exe
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\SMJOStockDemo.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\StockController.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\StockModel.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\StockView.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\StockController.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\StockModel.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\bin\Debug\StockView.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.csproj.AssemblyReference.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.MainForm.resources
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.Properties.Resources.resources
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.csproj.GenerateResource.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.csproj.CoreCompileInputs.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.csproj.CopyComplete
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.exe
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\SMJOStockDemo\obj\Debug\SMJOStockDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockModel\bin\Debug\StockModel.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockModel\bin\Debug\StockModel.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockModel\obj\Debug\StockModel.csproj.AssemblyReference.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockModel\obj\Debug\StockModel.csproj.CoreCompileInputs.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockModel\obj\Debug\StockModel.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockModel\obj\Debug\StockModel.pdb

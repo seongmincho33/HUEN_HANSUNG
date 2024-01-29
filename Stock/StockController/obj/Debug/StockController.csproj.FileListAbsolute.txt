@@ -1,0 +1,11 @@
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\bin\Debug\StockController.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\bin\Debug\StockController.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\bin\Debug\StockModel.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\bin\Debug\StockModel.pdb
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.csproj.AssemblyReference.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.Form_KoreanStockControllerHelp.resources
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.csproj.GenerateResource.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.csproj.CoreCompileInputs.cache
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.csproj.CopyComplete
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.dll
+C:\Users\smjo\Documents\GitHub\HUEN_HANSUNG\Stock\StockController\obj\Debug\StockController.pdb

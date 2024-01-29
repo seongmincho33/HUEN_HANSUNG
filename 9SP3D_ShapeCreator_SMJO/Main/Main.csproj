@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11D32E5C-808F-4868-83E0-ADC377EF80F5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Main</RootNamespace>
+    <AssemblyName>SP3D_ShapeCreator_SMJO</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CivilMiddle">
+      <HintPath>..\SP3D_DLL\CivilMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientUIP">
+      <HintPath>..\SP3D_DLL\ClientUIP.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonClient">
+      <HintPath>..\SP3D_DLL\CommonClient.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonMiddle">
+      <HintPath>..\SP3D_DLL\CommonMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonRouteMiddle">
+      <HintPath>..\SP3D_DLL\CommonRouteMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="Encryption">
+      <HintPath>..\SP3D_DLL\Encryption.dll</HintPath>
+    </Reference>
+    <Reference Include="EquipmentMiddle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SP3D_DLL\EquipmentMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelModule">
+      <HintPath>..\SP3D_DLL\ExcelModule.dll</HintPath>
+    </Reference>
+    <Reference Include="HCommonClient">
+      <HintPath>..\SP3D_DLL\HCommonClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Intergraph.CommonToolkit.Client">
+      <HintPath>..\SP3D_DLL\Intergraph.CommonToolkit.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Intergraph.CommonToolkit.Middle">
+      <HintPath>..\SP3D_DLL\Intergraph.CommonToolkit.Middle.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CommonSymbolUtils">
+      <HintPath>..\SP3D_DLL\Interop.CommonSymbolUtils.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.GSCADMiddleFilters">
+      <HintPath>..\SP3D_DLL\Interop.GSCADMiddleFilters.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.GSCADRouteUtils">
+      <HintPath>..\SP3D_DLL\Interop.GSCADRouteUtils.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PEDAS_Converter_Login">
+      <HintPath>..\SP3D_DLL\PEDAS_Converter_Login.dll</HintPath>
+    </Reference>
+    <Reference Include="PEDAS_Converter_Startup">
+      <HintPath>..\SP3D_DLL\PEDAS_Converter_Startup.dll</HintPath>
+    </Reference>
+    <Reference Include="PEDAS_License">
+      <HintPath>..\SP3D_DLL\PEDAS_License.dll</HintPath>
+    </Reference>
+    <Reference Include="PlanningMiddle">
+      <HintPath>..\SP3D_DLL\PlanningMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="ReferenceDataMiddle">
+      <HintPath>..\SP3D_DLL\ReferenceDataMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartPlantStructureMiddle">
+      <HintPath>..\SP3D_DLL\SmartPlantStructureMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="SP3DPIA.CivilEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\SP3D_DLL\SP3DPIA.CivilEntities.dll</HintPath>
+    </Reference>
+    <Reference Include="SP3DPIA.EquipmentHelpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\SP3D_DLL\SP3DPIA.EquipmentHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="SP3DPIA.PipeEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\SP3D_DLL\SP3DPIA.PipeEntities.dll</HintPath>
+    </Reference>
+    <Reference Include="SP3DPIA.RefDataMiddleServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\SP3D_DLL\SP3DPIA.RefDataMiddleServices.dll</HintPath>
+    </Reference>
+    <Reference Include="SP3DPIA.RouteEntities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\SP3D_DLL\SP3DPIA.RouteEntities.dll</HintPath>
+    </Reference>
+    <Reference Include="Sp3dpia.Syshlpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1495b921d589236c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\SP3D_DLL\Sp3dpia.Syshlpers.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureSymbolDefinition">
+      <HintPath>..\SP3D_DLL\StructureSymbolDefinition.dll</HintPath>
+    </Reference>
+    <Reference Include="SupportMiddle">
+      <HintPath>..\SP3D_DLL\SupportMiddle.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="SystemMiddle">
+      <HintPath>..\SP3D_DLL\SystemMiddle.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\CatalogHelper.cs" />
+    <Compile Include="Controller\ShapeGenerator.cs" />
+    <Compile Include="Controller\SymbolListFinder.cs" />
+    <Compile Include="Controller\SystemGenerator.cs" />
+    <Compile Include="Model\ManholeDrawInfo.cs" />
+    <Compile Include="Model\PipePosition.cs" />
+    <Compile Include="Model\Position.cs" />
+    <Compile Include="Model\SymbolModel.cs" />
+    <Compile Include="View\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Controller.cs" />
+    <Compile Include="Model\UserSetting.cs" />
+    <Compile Include="Model\EnumTypes.cs" />
+    <Compile Include="CustomCommand\MyCustomCommand.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SP3DHelper\SP3DConnector.cs" />
+    <Compile Include="CustomCommand\SP3DModalCommand.cs" />
+    <Compile Include="SP3DHelper\SP3DSystemPathFinder.cs" />
+    <Compile Include="Model\SystemPath_Model.cs" />
+    <EmbeddedResource Include="View\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="CivilEntitiesLib">
+      <Guid>{3A93ACDE-A6C7-4A60-9105-4E13CB45AF5F}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CivilMiddleServicesLib">
+      <Guid>{65A3CEE1-A958-4550-BBE9-44B871E3F12E}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
